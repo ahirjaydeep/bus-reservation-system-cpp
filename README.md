@@ -37,3 +37,8 @@ This project is a simple bus reservation system created as a first-semester dipl
 ```bash
 g++ src/BusReservation_Standard.cpp -o BusReservation
 ./BusReservation
+
+
+## Author
+
+Jaydeep Ahir
