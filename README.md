@@ -41,5 +41,3 @@ g++ src/BusReservation_Standard.cpp -o BusReservation
 ## Author
 
 Jaydeep Ahir
-
-© 2025 Jaydeep Ahir
